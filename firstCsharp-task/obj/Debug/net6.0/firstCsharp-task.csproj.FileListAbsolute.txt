@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\firstCsharp-task.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\firstCsharp-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\firstCsharp-task.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\firstCsharp-task.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\firstCsharp-task.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\bin\Debug\net6.0\firstCsharp-task.exe
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\bin\Debug\net6.0\firstCsharp-task.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\bin\Debug\net6.0\firstCsharp-task.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\bin\Debug\net6.0\firstCsharp-task.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\bin\Debug\net6.0\firstCsharp-task.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\firstCsharp-task.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\refint\firstCsharp-task.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\firstCsharp-task.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\firstCsharp-task.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\array-tasks\firstCsharp-task\firstCsharp-task\obj\Debug\net6.0\ref\firstCsharp-task.dll
